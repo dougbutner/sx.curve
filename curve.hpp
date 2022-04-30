@@ -1,6 +1,6 @@
 #pragma once
 
-#include <sx.safemath/safemath.hpp>
+#include "include/sx.safemath/safemath.hpp"
 
 using namespace eosio;
 

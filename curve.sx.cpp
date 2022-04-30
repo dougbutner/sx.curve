@@ -1,7 +1,7 @@
-#include <eosio.token/eosio.token.hpp>
-#include <sx.utils/utils.hpp>
-#include <sx.safemath/safemath.hpp>
-#include <sx.rex/rex.hpp>
+#include "include/eosio.token/eosio.token.hpp"
+#include "include/sx.utils/utils.hpp"
+#include "include/sx.safemath/safemath.hpp"
+#include "include/sx.rex/rex.hpp"
 
 #include "curve.sx.hpp"
 #include "src/actions.cpp"
